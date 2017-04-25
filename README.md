@@ -1,6 +1,6 @@
 # npmtest-node-webkit-builder
 
-#### test coverage for  [node-webkit-builder (v1.0.13)](https://github.com/mllrsohn/node-webkit-builder)  [![npm package](https://img.shields.io/npm/v/npmtest-node-webkit-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-webkit-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-webkit-builder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-webkit-builder)
+#### basic test coverage for  [node-webkit-builder (v1.0.13)](https://github.com/mllrsohn/node-webkit-builder)  [![npm package](https://img.shields.io/npm/v/npmtest-node-webkit-builder.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-webkit-builder) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-webkit-builder.svg)](https://travis-ci.org/npmtest/node-npmtest-node-webkit-builder)
 
 #### node-webkit-builder
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-webkit-builder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-webkit-builder/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-webkit-builder/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-webkit-builder/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-webkit-builder/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-webkit-builder/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-webkit-builder/build/coverage.html/index.html)
 
